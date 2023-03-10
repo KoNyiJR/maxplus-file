@@ -2,12 +2,12 @@
    "files": [  
                                      
       {
-         "name": "TH-HomeNet-TRUE-DTAC01",
+         "name": "TH-TRUE-DTAC01",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/A-HomeNet-TrueDtac01.ovpn"
       },
                                             
       {
-         "name": "TH-HomeNet-TRUE-DTAC02",
+         "name": "TH-TRUE-DTAC02",
          "url": "https://raw.githubusercontent.com/BOTNETSC/HideVPNX/main/VPN/A-HomeNet-TrueDtac02.ovpn"
       },                                          
                                                
@@ -247,7 +247,7 @@
       }                                    
    
    ],
-"message":"🚀 Config version - 7 \n📆 Daily Update - 10/03/2023\n \nWelcome to free internet, no need to apply for promotion 🔥 \n• No need to add time 🔥 \n• There are more than 90 servers to choose from. \nHave fun with free internet 🙏 MaxPlus VPN" ,
+"message":"🚀 Config version - 16 \n📆 Daily Update - 10/03/2023\n \nWelcome to free internet, no need to apply for promotion 🔥 \n• There are more than 49 servers to choose.\n♥♥ MaxPlus VPN" ,
    "title":"Do you want to update?",
-   "version": 15
+   "version": 16
 }
